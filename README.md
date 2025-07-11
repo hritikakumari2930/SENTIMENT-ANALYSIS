@@ -55,3 +55,6 @@ This project provides a step-by-step implementation of sentiment analysis using 
 
 Feel free to explore the notebook, run the code, and modify it as per your requirements. This project can be extended further using advanced models like **VADER**, **BERT**, or **transformers** for more accurate and scalable sentiment classification.
 
+OUTPUT :-
+<img width="917" height="474" alt="Image" src="https://github.com/user-attachments/assets/e8712dae-7841-4f33-aca4-a0b13e477990" />
+
